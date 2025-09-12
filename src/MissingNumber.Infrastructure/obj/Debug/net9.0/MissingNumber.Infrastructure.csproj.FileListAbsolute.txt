@@ -1,0 +1,17 @@
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Infrastructure\obj\Debug\net9.0\MissingNumber.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Infrastructure\obj\Debug\net9.0\MissingNumber.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Infrastructure\obj\Debug\net9.0\MissingNumber.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Infrastructure\obj\Debug\net9.0\MissingNumber.Infrastructure.AssemblyInfo.cs
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Infrastructure\obj\Debug\net9.0\MissingNumber.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Infrastructure\bin\Debug\net9.0\MissingNumber.Infrastructure.deps.json
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Infrastructure\bin\Debug\net9.0\MissingNumber.Infrastructure.dll
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Infrastructure\bin\Debug\net9.0\MissingNumber.Infrastructure.pdb
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Infrastructure\bin\Debug\net9.0\MissingNumber.Application.dll
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Infrastructure\bin\Debug\net9.0\MissingNumber.Domain.dll
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Infrastructure\bin\Debug\net9.0\MissingNumber.Application.pdb
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Infrastructure\bin\Debug\net9.0\MissingNumber.Domain.pdb
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Infrastructure\obj\Debug\net9.0\MissingN.642FCAE4.Up2Date
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Infrastructure\obj\Debug\net9.0\MissingNumber.Infrastructure.dll
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Infrastructure\obj\Debug\net9.0\refint\MissingNumber.Infrastructure.dll
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Infrastructure\obj\Debug\net9.0\MissingNumber.Infrastructure.pdb
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Infrastructure\obj\Debug\net9.0\ref\MissingNumber.Infrastructure.dll

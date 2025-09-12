@@ -1,0 +1,11 @@
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Application\bin\Debug\net9.0\MissingNumber.Application.deps.json
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Application\bin\Debug\net9.0\MissingNumber.Application.dll
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Application\bin\Debug\net9.0\MissingNumber.Application.pdb
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Application\obj\Debug\net9.0\MissingNumber.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Application\obj\Debug\net9.0\MissingNumber.Application.AssemblyInfoInputs.cache
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Application\obj\Debug\net9.0\MissingNumber.Application.AssemblyInfo.cs
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Application\obj\Debug\net9.0\MissingNumber.Application.csproj.CoreCompileInputs.cache
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Application\obj\Debug\net9.0\MissingNumber.Application.dll
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Application\obj\Debug\net9.0\refint\MissingNumber.Application.dll
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Application\obj\Debug\net9.0\MissingNumber.Application.pdb
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Application\obj\Debug\net9.0\ref\MissingNumber.Application.dll
