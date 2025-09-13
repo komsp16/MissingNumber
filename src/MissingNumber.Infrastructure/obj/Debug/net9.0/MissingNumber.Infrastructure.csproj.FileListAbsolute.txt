@@ -15,3 +15,4 @@ C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\
 C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Infrastructure\obj\Debug\net9.0\refint\MissingNumber.Infrastructure.dll
 C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Infrastructure\obj\Debug\net9.0\MissingNumber.Infrastructure.pdb
 C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Infrastructure\obj\Debug\net9.0\ref\MissingNumber.Infrastructure.dll
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Infrastructure\obj\Debug\net9.0\MissingNumber.Infrastructure.sourcelink.json

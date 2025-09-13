@@ -36,17 +36,20 @@ public class ConsoleRunner
             else
             {
                 input = PromptForInput();
-                algorithm = PromptForAlgorithm();
+                //algorithm = PromptForAlgorithm(); // Uncomment if you want to prompt for algorithm - KISS
             }
 
             var numbers = _parser.Parse(input);
             _validator.Validate(numbers);
+            Console.WriteLine($"Input: [{string.Join(", ", numbers)}]");
 
             var finder = _factory.Create(algorithm);
             var missing = finder.FindMissing(numbers);
 
-            Console.WriteLine($"Algorithm: {algorithm}");
-            Console.WriteLine($"Missing number is: {missing}");
+            //Console.WriteLine($"Algorithm: {algorithm}"); // Uncomment if you want to display the algorithm used - KISS
+            Console.WriteLine($"Output: {missing}");
+   
+
             return Task.FromResult(0);
         }
         catch (Exception ex)
@@ -58,7 +61,7 @@ public class ConsoleRunner
 
     private static string PromptForInput()
     {
-        Console.WriteLine("Enter numbers (comma separated). Example: '3,0,1'");
+        Console.WriteLine("Enter numbers (comma/space separated) in a range from 0 to n. Example: '3,0,1'");
         return Console.ReadLine() ?? string.Empty;
     }
 

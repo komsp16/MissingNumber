@@ -9,3 +9,4 @@ C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\
 C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Domain\obj\Debug\net9.0\refint\MissingNumber.Domain.dll
 C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Domain\obj\Debug\net9.0\MissingNumber.Domain.pdb
 C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Domain\obj\Debug\net9.0\ref\MissingNumber.Domain.dll
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Domain\obj\Debug\net9.0\MissingNumber.Domain.sourcelink.json

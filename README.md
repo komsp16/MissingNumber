@@ -3,7 +3,7 @@
 A sample **Clean Architecture** console application in **C# / .NET 9.0** that finds the missing number in a given array of range `0..n`.
 
 ## 🚀 Features
-- **Multiple Algorithms** (XOR and Sum) chosen via strategy/factory.
+- **Multiple Algorithms** (XOR and Sum) can be chosen via strategy/factory - disabled to keep it simple.
 - **Input Validation** (duplicate values, out-of-range values, invalid tokens).
 - **Dependency Injection** using `Microsoft.Extensions.DependencyInjection`.
 - **Unit & Integration Tests** with xUnit.
@@ -27,7 +27,7 @@ dotnet test
 
 ### Example Output
 ```bash
-Input: 3,0,1
+Input: [3,0,1]
 Missing number (Xor): 2
 ```
 
@@ -97,40 +97,6 @@ A GitHub Actions pipeline (`.github/workflows/dotnet.yml`) restores, builds, and
      +-------------------+
 ```
 
-
-## 📝 Mermaid Architecture Diagram
-
-```mermaid
-flowchart TD
-    A[Console Runner] --> B[Input Parser]
-    B --> C[Composite Validation Service]
-    C --> D[Finder Factory]
-    D -->|Xor / Sum| E[MissingNumber Finder]
-
-    subgraph Domain
-        F[Errors / Exceptions]
-    end
-
-    subgraph Application
-        G[Interfaces]
-        H[AlgorithmType]
-        I[Factory Abstraction]
-    end
-
-    subgraph Infrastructure
-        J[Parsers]
-        K[Validators]
-        L[Algorithms]
-        M[DI / Factory Impl]
-    end
-
-    A -.-> G
-    D -.-> G
-    G --> F
-    J --> G
-    K --> G
-    L --> G
-```
 
 
 ## 🔖 CI Build Status
