@@ -50,3 +50,4 @@ C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\
 C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Console\obj\Debug\net9.0\MissingNumber.Console.pdb
 C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Console\obj\Debug\net9.0\MissingNumber.Console.genruntimeconfig.cache
 C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Console\obj\Debug\net9.0\ref\MissingNumber.Console.dll
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\src\MissingNumber.Console\obj\Debug\net9.0\MissingNumber.Console.sourcelink.json
