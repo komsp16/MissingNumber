@@ -31,16 +31,34 @@ Input: [3,0,1]
 Missing number (Xor): 2
 ```
 
-## 🧱 Project Structure
+### Web API
+```bash
+dotnet run --project src/MissingNumber.Api
+# Swagger: https://localhost:5001/swagger
+# POST /api/missingnumber/find
+# Body:
+# { "numbers": [3,0,1], "algorithm": "Sum" }
+```
+
+### MVC Web
+```bash
+dotnet run --project src/MissingNumber.Web
+# Browse to https://localhost:5001
+```
+
+## Project Structure
 ```
 src/
-  MissingNumber.Console        # Entry point (ConsoleRunner, Program)
-  MissingNumber.Application    # Interfaces, AlgorithmType
-  MissingNumber.Domain         # Domain exceptions
-  MissingNumber.Infrastructure # Parsers, Validators, Algorithms, Factory, DI
+  MissingNumber.Console
+  MissingNumber.Api
+  MissingNumber.Web
+  MissingNumber.Application
+  MissingNumber.Domain
+  MissingNumber.Infrastructure
 tests/
-  MissingNumber.Application.Tests # Unit + Integration tests
+  MissingNumber.Application.Tests
 ```
+
 
 ## 🧑‍💻 SOLID Principles Applied
 

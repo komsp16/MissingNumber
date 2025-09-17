@@ -105,3 +105,4 @@ C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\
 C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\tests\MissingNumber.Application.Tests\obj\Debug\net9.0\MissingNumber.Application.Tests.pdb
 C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\tests\MissingNumber.Application.Tests\obj\Debug\net9.0\MissingNumber.Application.Tests.genruntimeconfig.cache
 C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\tests\MissingNumber.Application.Tests\obj\Debug\net9.0\ref\MissingNumber.Application.Tests.dll
+C:\Users\kaumi\source\repos\komsp16\Lextech\MissingNumber ChatGPT\MissingNumber\tests\MissingNumber.Application.Tests\obj\Debug\net9.0\MissingNumber.Application.Tests.sourcelink.json

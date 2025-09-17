@@ -1,0 +1,22 @@
+@model MissingNumber.Web.Controllers.MissingNumberVm
+<form method="post">
+    <label for="RawInput">Numbers (comma or space separated)</label>
+    <input id="RawInput" name="RawInput" value="@(Model.RawInput ?? "3,0,1")" />
+
+    <label for="Algorithm">Algorithm</label>
+    <select id="Algorithm" name="Algorithm">
+        <option value="Xor" selected="@(Model.Algorithm == MissingNumber.Application.AlgorithmType.Xor)">Xor</option>
+        <option value="Sum" selected="@(Model.Algorithm == MissingNumber.Application.AlgorithmType.Sum)">Sum</option>
+    </select>
+
+    <button type="submit">Compute</button>
+</form>
+
+@if (Model.Error != null)
+{
+    <p class="error">Error: @Model.Error</p>
+}
+@if (Model.Result != null)
+{
+    <p class="result">Missing number: <strong>@Model.Result</strong></p>
+}
