@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "mC/1rAjqtpU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaumi\\source\\repos\\komsp16\\Lextech\\MissingNumber ChatGPT\\MissingNumber\\src\\MissingNumber.Web\\MissingNumber.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaumi\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.9\\microsoft.extensions.dependencyinjection.9.0.9.nupkg.sha512",
+    "C:\\Users\\kaumi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.9\\microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
